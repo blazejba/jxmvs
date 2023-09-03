@@ -1,8 +1,8 @@
-# JxStats: Jax Statistics
+# JxMVS: Jax Multivariate Statistics
 
-Implementation of various statistical methods in Jax. 
+Implementation of various multivariate statistical methods in Jax. 
 
-Includes:
+Currently includes:
 - Gaussian Mixture Model (GMM)
 
 ## Installation
